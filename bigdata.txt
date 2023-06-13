@@ -1,0 +1,79 @@
+One aspect of digital transformation that organizations struggle to get right is the identifying, capturing, managing and analyzing of big data. Across all industries, organizations are keen to use this data and the work of data scientists to discover the insights that will drive strategic business decisions. CIOs today need analytics expertise as well as an understanding of the data sciences and algorithmic approaches that will provide data analytics to their companies. Read: Informed Decision Making: You Should Be Getting More Value From Your Data
+
+Organizations need the clarity offered by big data and data sciences to support mission-focused programs; provide appropriate intelligence; design and implement predictive models, algorithmic approaches and shareable models; and cut costs while producing bottom-line results. That’s a tall order. Great care must be taken to get this right.
+
+In its Top 10 Strategic Technology Trends for 2017, Gartner included machine learning and artificial intelligence—including intelligent apps and intelligent things such as drones, autonomous vehicles and smart appliances—as factors that will be strategic for businesses in the coming year. These data-heavy technologies are fueling a new era for analytics.
+
+How can the CIO and his team introduce big data into their workflow, and how can they translate what appears to be hieroglyphics to top-level executives in plain language? More importantly, how can your organization tell which data is good and which is bad (data that doesn’t provide you with the level of information you need to be successful)? How can you implement real-time analytics on streaming data?
+
+Begin with Knowledge
+
+The first issue to overcome is defining what big data actually means. A common data language will foster the growth of the best ideas shared across diverse internal teams and trusted partners. Taking this first step will determine how an organization will harness the power of advanced analytics and benefit from big data.
+
+With that, let’s consider some of the prevailing definitions of big data and data sciences:
+
+Data that is too big, too fast-moving or too complex for traditional data processing tools.
+Data sets whose characteristics include veracity, high volume, high velocity and a variety of data structures.
+Data assets that require new forms of processing to enable enhanced decision making for extraction of new insight or new discovery.
+An evolving concept about the growth of data and how to curate, manage and process that data.
+There are many contributors to the explosion of big data, including social networks, sensors, machine-to-machine and IoT. Much of it is unstructured, less ordered and more interrelated than traditional data. What this means is that these new, massive data sets can no longer be easily managed or analyzed with traditional data management tools, methods and infrastructures.
+
+Big data reaches across all sectors, and its effects represent a seismic shift in enterprise technology. It’s rapidly changing the traditional data analytics landscape across all industries. To meet these challenges, enterprises have begun implementing big data technologies, such as Apache Spark and Storm. A viable option may be a suitable architecture designed to complement Spark and Hadoop/NoSQL databases like Cassandra and Hbase, which can use in-memory computing and interactive analytics.
+
+Pain Points of the EDW
+
+What organizations are probably used to is a traditional enterprise data warehouse (EDW), which typically works with abstracted data that has been gathered into a separate database for specific analytics. EDW databases are based on stable data models. They ingest data from enterprise applications like CRM, ERP and financial systems. Various Extract, Transform, Load (ETL) processes update and maintain these databases incrementally, typically on hourly, weekly and monthly schedules. A typical EDW runs from hundreds of gigabytes to multiple terabytes.
+
+However, no solution is perfect. An EDW’s pain points include:
+
+Change has a heavy price. Changes to the system and configuration are expensive due to rigid and inflexible designs.
+Access is not real-time. Separating the database from operational data sources causes data availability issues. Batch window limitations also add to data latency.
+Slowing down the system. The need to run ad-hoc analysis from time to time in addition to regular operational reporting degrades system response times.
+The traditional EDW is stretched thin by data’s explosive growth. Data is coming in all varieties and formats, and new data collection processes are no longer centralized.
+
+Big Data Gets Real
+
+Important questions must be asked when organizations begin to realize the sheer volume of big data that they have collected:
+
+What data is really relevant, and what isn’t?
+Is the data at rest or in motion?
+What is the end goal for the data collected?
+How will this data help achieve goals, whether it’s mobile, marketing or sales?
+In taking these first exploratory steps, your company has an advantage when determining the best fit for extracting and using this data and its place in the overall roadmap.
+
+The advantage lies in realizing that you do not, as a matter of course, have to buy $10 million worth of data analysis appliances and software. Consider this: if there is a large dataset, how much of it is really relevant to achieving your corporate goals? Of the entire dataset, half may be relevant to run applications, which are transaction-based, and the other half could be co-located on low-latency, low-cost consumer hardware or software that supplies information to researchers or scientists. This level of thinking will give your team a manageable dataset instead of trying to ingest and analyze years and years’ worth of data.
+
+Create the Data Platform That Works for You
+
+Clarity is needed regarding the variety of data you’re working with – typically a combination of traditional structured data and relatively unstructured big datasets. Once you have sorted out what your data platform should look like, you will have a better understanding of how to manage and analyze the different types of data.
+
+Data platforms are not “one size fits all.” You’ll need to create a data platform that complements your organization’s strengths and your existing technology footprint, and uses the most effective tools to meet your data ingest and analysis needs. Typically, this will be a dynamic combination of legacy and new technology, off-the shelf and open source licensing, and static and fluid data access methods.
+
+The Many Faces of Big Data
+
+Data analyst professionals must consider, at a minimum, these five aspects of data:
+
+Ingestion
+Harmonization
+Analysis
+Visualization
+Democratization
+Some companies may need to consider all five aspects, while other companies may have everything covered except the democratization or interoperability of the data. In other words, make sure your plan includes all these aspects in an end-to-end perspective and determine your strengths and weaknesses before moving forward.
+
+Three Steps to Take First
+
+As your teams prepare to capture, control, manage and visualize the big data that matters most to your organization, implementing these three key elements will help.
+
+Asses and strategize: Do an assessment to determine a strategy that works for your organization before you make the move to big data. Consider bringing in a third-party vendor or someone from outside the organization to evaluate your current situation. Through internal support and feedback and external assessments and recommendations, you will be better able to determine where you are and what you need to advance the program.
+
+Secure stakeholder involvement: Put a clear vision and mission in place by working with the right stakeholders. What are you trying to accomplish? Many organizations are jumping onto the big data bandwagon and ingesting terabytes of data, only to ask the question, “Now what?”
+
+Working with those who will derive benefit from the data insights will ensure buy-in from the users while providing a concise, well-thought-out plan instead of implementing technology just because it is available. Ultimately, if you build a program that doesn’t fit into your existing technology stack or doesn’t provide the information to advance your goals, the entire operation will fail.
+
+Draw a clear map: Break down the tactical outcomes by creating a clear, strategic road map. For instance, a 36-month strategic roadmap will give you an opportunity to review and change course if necessary. The resulting outcome every quarter will help you better evaluate and build out your goals.
+
+You want to create a responsive implementation. Reactive mode can lead to solutions that require constant patching or updating – or worse, trying to fit a new solution into a legacy network. Instead, by being responsive, big data or data sciences implementation can become a swift and smooth process.
+
+A Measured Approach to Big Data
+
+Just because you can do something doesn’t mean you should. Today’s data-gathering capabilities must be used with care and consideration to prevent the creation of a heap of useless information. Organizations must be strategic in how they approach the collection, management and analysis of their data if they want to find the gems of insight that will provide them with a competitive edge.
